@@ -139,13 +139,6 @@ docs/lab-documentation.md
 
 ---
 
-## Conclusion
-
-This lab demonstrates how proper firewall rule design transforms basic network segmentation into a secure and controlled environment.  
-By combining aliases, least privilege, and default deny, the network becomes significantly more resilient against attacks.
-
----
-
 ## Author
 Muhammad Mehdi
 IT Security Developer Student
