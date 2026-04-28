@@ -107,13 +107,35 @@ Since not all VLANs were implemented in Hyper-V, firewall rules were created on 
 
 ## Screenshots
 
-| # | Description |
-|--|------------|
-| 01 | Alias overview |
-| 02 | Firewall rules overview |
-| 03 | Example allow rule |
-| 04 | Block rule with logging |
-| 05 | Logging enabled rule |
+### 1. Alias Overview
+![Alias Overview](screenshots/01-alias-overview.png)
+
+Shows configured host, network, and port aliases in OPNsense.
+
+### 2. Firewall Rules Overview
+![Firewall Rules Overview](screenshots/02-firewall-rules-overview.png)
+
+Shows the configured LAN firewall rules, including allow and block rules.
+
+### 3. Allow Rule Example - Part 1
+![Allow Rule Example Part 1](screenshots/03-rule-example-file01-part1.png)
+
+Shows the general settings for the SMB allow rule.
+
+### 4. Allow Rule Example - Part 2
+![Allow Rule Example Part 2](screenshots/03-rule-example-file01-part2.png)
+
+Shows source, destination, and port aliases for USERS_NET to FILE01.
+
+### 5. Block Management Rule - Part 1
+![Block Management Rule Part 1](screenshots/04-block-management-part1.png)
+
+Shows the general settings for the management block rule.
+
+### 6. Block Management Rule - Part 2
+![Block Management Rule Part 2](screenshots/04-block-management-part2.png)
+
+Shows source, destination, and logging enabled for the management block rule.
 
 ---
 
