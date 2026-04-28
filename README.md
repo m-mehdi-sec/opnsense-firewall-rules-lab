@@ -140,5 +140,6 @@ docs/lab-documentation.md
 ---
 
 ## Author
-Muhammad Mehdi
-IT Security Developer Student
+
+**Muhammad Mehdi**  
+IT Security Developer Student  
