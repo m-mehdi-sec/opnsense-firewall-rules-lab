@@ -108,7 +108,7 @@ Since not all VLANs were implemented in Hyper-V, firewall rules were created on 
 ## Screenshots
 
 ### 1. Alias Overview
-![Alias Overview](docs /images/01-alias-overview.png)
+![Alias Overview](docs/images/01-alias-overview.png)
 
 Shows configured host, network, and port aliases in OPNsense.
 
