@@ -147,7 +147,7 @@ Detailed lab documentation, including:
 - Step-by-step implementation  
 
 See:  
-docs/lab-documentation.md
+[Lab Documentation](docs/lab-documentation.md)
 
 ---
 
